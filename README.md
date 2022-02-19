@@ -1,8 +1,7 @@
-# *Olá eu sou a Maria Eduarda Silva, sejam Bem Vindos 🌐❤️!*
-
--🖥️Atualmente estou cursando TI.
--📚Trabalho como Jovem Aprendiz.
--📝Estudando Flutter.
+# *Olá eu sou a Maria Eduarda Silva, sejam Bem Vindos 🌐❤️!
+- 🖥️Atualmente estou cursando TI.
+- 📚Trabalho como Jovem Aprendiz.
+- 📝Estudando Flutter.
 
 <div align="center">
   <a href="https://github.com/Dudah03">
