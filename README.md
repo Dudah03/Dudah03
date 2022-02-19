@@ -20,7 +20,6 @@
   ##
 
 <div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.educamaisbrasil.com.br%2Fcursos-e-faculdades%2Fanalise-e-desenvolvimento-de-sistemas%2Fnoticias%2Fquem-faz-analise-de-sistemas-e-programador&psig=AOvVaw1DRh9ay4-toygdDOE04fj7&ust=1645341278770000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPj5_4aci_YCFQAAAAAdAAAAABAQ">
+<a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<img align="center" alt=420 widdth="375" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.educamaisbrasil.com.br%2Fcursos-e-faculdades%2Fanalise-e-desenvolvimento-de-sistemas%2Fnoticias%2Fquem-faz-analise-de-sistemas-e-programador&psig=AOvVaw1DRh9ay4-toygdDOE04fj7&ust=1645341278770000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPj5_4aci_YCFQAAAAAdAAAAABAQ>
 </div>
-
