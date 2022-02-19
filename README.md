@@ -1,4 +1,4 @@
-# Olá Seja Bem Vindo, Eu Sou A Maria Eduarda �🖥❤🖱
+# Olá Seja Bem Vindo, Eu Sou A Maria Eduarda 🖥❤🖱
 
 <!
 - 🔭 I’m currently working on ...
