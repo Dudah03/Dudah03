@@ -1,4 +1,4 @@
-# * Olá eu sou a Maria Eduarda Silva, sejam Bem Vindos 🌐❤️!*
+# Olá eu sou a Maria Eduarda Silva, sejam Bem Vindos 🌐❤️!
 - 🖥️Atualmente estou cursando TI.
 - 📚Trabalho como Jovem Aprendiz.
 - 📝Estudando Flutter.
