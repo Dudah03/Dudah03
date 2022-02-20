@@ -23,8 +23,9 @@
 </div>
 
 <div algin="center">
-<img src="https://user-images.githubusercontent.com/99221553/154828481-5f879da6-b5df-470c-96e3-3e668817b909.gif" width="600px"  />
+<img src="https://user-images.githubusercontent.com/99221553/154828481-5f879da6-b5df-470c-96e3-3e668817b909.gif" width="550px"  />
 <img src="https://user-images.githubusercontent.com/99221553/154828003-c3799b38-05f9-4f10-ac4a-7afa6a45f4b2.png" width="300px" />
+<img src="https://user-images.githubusercontent.com/99221553/154829168-edc7d272-ebee-4f7c-8e2f-f592997dab0c.gif" width="300px" />
 </div>
 
 
