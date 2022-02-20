@@ -23,9 +23,8 @@
 </div>
 
 <div algin="center">
+<img src="https://user-images.githubusercontent.com/99221553/154828481-5f879da6-b5df-470c-96e3-3e668817b909.gif" width="650px"  />
 <img src="https://user-images.githubusercontent.com/99221553/154828003-c3799b38-05f9-4f10-ac4a-7afa6a45f4b2.png" width="300px" />
-</div><div algin="center">
-<img src="https://user-images.githubusercontent.com/99221553/154828481-5f879da6-b5df-470c-96e3-3e668817b909.gif" width="700px"  />
 </div>
 
 
