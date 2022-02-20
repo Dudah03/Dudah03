@@ -20,5 +20,5 @@
 
 <div> 
 <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a
-![Duda png](https://user-images.githubusercontent.com/99221553/154828003-c3799b38-05f9-4f10-ac4a-7afa6a45f4b2.png)
+<img src="![Dudaavatarpng](https://user-images.githubusercontent.com/99221553/154828128-3107bba1-323f-4d3d-8030-8adfed0098d5.png)"
 </div>
