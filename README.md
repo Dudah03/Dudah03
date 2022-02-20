@@ -6,7 +6,7 @@
 <div align="center">
 <a href="https://github.com/Dudah03">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudah03&show_icons=true&theme=dracula&include__all_commits=true&count_private=true"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudah03&layout=compact)](https://github.com/dudah03/github-readme-stats)
+<img height="180em" src"https://github-readme-stats.vercel.app/api/top-langs/?username=dudah03&layout=compact&langs_cout=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
