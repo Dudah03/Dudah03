@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://giphy.com/gifs/naruto-xororo-xororolol-Lkms5n7hbywR5cOd7w.gif" width="30">
+<img src="https://user-images.githubusercontent.com/99221553/154831844-b5b3a4ad-652f-4c27-bb19-636eba569cca.gif width="30">
 Olá eu sou a Maria Eduarda Silva, sejam Bem Vindos 🌐❤️!
 </h1>
 
