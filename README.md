@@ -14,11 +14,11 @@
 <img align="center" alt="Dudah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Dudah-Dart" height="30" width="40" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white.svg">
 <img align="center" alt="Dudah-Fluttr" height="30" width="40" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white.svg">
-<img align="center" alt="420" widdth="375" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.educamaisbrasil.com.br%2Fcursos-e-faculdades%2Fanalise-e-desenvolvimento-de-sistemas%2Fnoticias%2Fquem-faz-analise-de-sistemas-e-programador&psig=AOvVaw1DRh9ay4-toygdDOE04fj7&ust=1645341278770000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPj5_4aci_YCFQAAAAAdAAAAABAQ>
 </div>
   
   ##
 
 <div> 
 <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+![dudaavatar png](https://user-images.githubusercontent.com/99221553/154827843-07c916a4-bfed-48bc-ab66-66b97a17d42d.png)
 </div>
