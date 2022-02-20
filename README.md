@@ -19,6 +19,5 @@
   ##
 
 <div> 
-<a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-![dudaavatar png](https://user-images.githubusercontent.com/99221553/154827843-07c916a4-bfed-48bc-ab66-66b97a17d42d.png)
+<a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a
 </div>
