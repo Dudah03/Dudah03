@@ -14,15 +14,15 @@ Olá eu sou a Maria Eduarda Silva, sejam Bem Vindos 🌐❤️!
 
 <div style="display: inline_block"><br>
 <br />
-<img align="center" alt="Dudah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="left" alt="Dudah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <br />
-<img align="center" alt="Dudah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="left alt="Dudah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <br/>
-<img align="center" alt="Dudah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="left" alt="Dudah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <br />
-<img align="center" alt="Dudah-Dart" height="30" width="40" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white.svg">
+<img align="left" alt="Dudah-Dart" height="30" width="40" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white.svg">
 <br />
-<img align="center" alt="Dudah-Fluttr" height="30" width="40" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white.svg">
+<img align="left" alt="Dudah-Fluttr" height="30" width="40" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white.svg">
 <br />
 </div>
   
